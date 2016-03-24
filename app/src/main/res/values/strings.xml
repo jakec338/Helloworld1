@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UCL Cafes</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_name_prompt">First name:</string>
+    <string name="title_activity_print_room">Print Room</string>
+    <string name="title_activity_pizza_neo">Pizza Neo</string>
+    <string name="title_activity_aspretto">Aspretto</string>
+    <string name="title_activity_gordons_cafe">Gordons Cafe</string>
+    <string name="title_activity_george_farah_cafe">George Farah Cafe</string>
+    <string name="title_activity_pr_menu">pr_menu</string>
+    <string name="title_activity_pr_cold_drinks">PrColdDrinks</string>
+</resources>

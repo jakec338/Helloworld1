@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pizzaneo_menu">
+        <item>pizza test</item>
+        <item>pizza test2</item>
+    </string-array>
+</resources>

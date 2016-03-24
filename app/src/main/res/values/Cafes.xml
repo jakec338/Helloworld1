@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cafes">
+        <item>Print Room</item>
+        <item>Pizza Neo</item>
+        <item>Aspretto</item>
+        <item>Gordons Cafe</item>
+        <item>George Farah Cafe</item>
+    </string-array>
+</resources>
